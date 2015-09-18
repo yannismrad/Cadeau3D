@@ -1,4 +1,4 @@
 Cadeau3D
 ========
 
-Un ptit cadeau de noel pour quelqu'un ;)
+Animation 3D réalisée à l'aide de WebGL & Three.JS
